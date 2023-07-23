@@ -10,6 +10,7 @@ import androidx.compose.material.Text
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.tooling.preview.Preview
+import com.soulinc.cabo.model.CardDeck
 import com.soulinc.cabo.ui.theme.MyApplicationTheme
 
 class MainActivity : ComponentActivity() {
